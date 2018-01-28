@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	
+    <color name="primary">#0328ED</color>
+    <color name="primary_dark">#279910</color>
+    <color name="accent">#CCCCCC</color>
+
+    <color name="night">#0B0B0B</color>
+    <color name="day">#F4F4F4</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    
+    <color name="card_text">#FFFFFF</color>
+    <color name="source_text">#DDDDDD</color>
+    <color name="card_link">#CCFFFF</color>
+    <color name="card_green">#279910</color>
+    <color name="card_blue">#0328ED</color>
+    <color name="card_light_gray">#D4D4D4</color>
+    <color name="card_gray">#AAAAAA</color>
+    <color name="card_deep_gray">#888888</color>
+    <color name="orange_light">#F56E5D</color>
+    <color name="orange_dark">#D13D37</color>
+</resources>
